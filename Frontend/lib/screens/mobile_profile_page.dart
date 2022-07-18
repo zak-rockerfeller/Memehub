@@ -166,7 +166,8 @@ class _MobileProfilePageState extends State<MobileProfilePage> with SingleTicker
                                         DecorationImage(image: NetworkImage('${user!.image}'), fit: BoxFit.cover) : null :
                                         DecorationImage(image: FileImage(_imageFile ?? File('')),fit: BoxFit.cover)
                                     ),
-                                    child: const Icon(FontAwesomeIcons.userAlt, size: 30, color: Palette.scaffold,),
+                                       child: _imageFile == null ? user!.image != null ? null :
+                                    const Icon(FontAwesomeIcons.userAlt, size: 30, color: Palette.scaffold,) : null
 
                                   ),
                                   onTap: (){
