@@ -6,9 +6,7 @@ Do you love memes?
 Of course you do. Memehub is a social platform I created for sharing memes. 
 
 Flutter and Laravel have been used to design the front-end and back-end respectively.
-
-![Screenshot_20220724-102250](https://user-images.githubusercontent.com/55271909/181754660-2ff18108-8cb2-4bda-ae33-289b2d14c9e0.jpg) <img 
-                                                                                                                                          src="https://user-images.githubusercontent.com/55271909/181754660-2ff18108-8cb2-4bda-ae33-289b2d14c9e0.jpg" width="100" height="100">
+<img src="https://user-images.githubusercontent.com/55271909/181754660-2ff18108-8cb2-4bda-ae33-289b2d14c9e0.jpg" width="300" height="300">
 
 ![Screenshot_20220724-102159](https://user-images.githubusercontent.com/55271909/181754681-1ef62d39-5e09-41da-804c-c4212ce79781.jpg)
 
