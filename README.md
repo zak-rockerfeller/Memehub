@@ -1,7 +1,11 @@
 # Memehub
 
 
-Do you love memes? Of course you do. Memehub is a social platform I created for sharing memes. 
+Do you love memes? 
+
+Of course you do. Memehub is a social platform I created for sharing memes. 
+
+Flutter and Laravel have been used to design the front-end and back-end respectively.
 
 ![Screenshot_20220724-102250](https://user-images.githubusercontent.com/55271909/181754660-2ff18108-8cb2-4bda-ae33-289b2d14c9e0.jpg)
 
